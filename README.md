@@ -26,6 +26,8 @@ __Objetivos Específicos__
 ![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/5b.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/5c.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/5d.PNG)
+La gráfica no es una línea recta, es una pendiente la cual indica, mientras más aumente el voltaje, más aumentara la intensidad de corriente.
+
 
 
 
