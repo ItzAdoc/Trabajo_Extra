@@ -19,6 +19,8 @@ __Objetivos Específicos__
 
 3.Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 3  del libro, Principios de circuitos de Floyd.
+![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/1.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/2-4.PNG)
 
 
 
