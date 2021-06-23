@@ -21,6 +21,11 @@ __Objetivos Específicos__
 * Resolver los ejercicios del capítulo 3  del libro, Principios de circuitos de Floyd.
 ![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/1.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/2-4.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/5.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/5a.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/5b.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/5c.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/5d.PNG)
 
 
 
