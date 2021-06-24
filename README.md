@@ -41,6 +41,18 @@ __Objetivos Específicos__
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/17.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/18.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/19-21.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/23.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/24.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/25.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/26.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/28.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/29.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/30.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/31.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/32.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/33.PNG)
+
+
 
 
 
