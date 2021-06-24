@@ -13,11 +13,8 @@ __Objetivos Específicos__
 * 
 *
 
-2.Marco Teórico
 
-
-
-3.Resolución de los ejercicios
+2.Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 3  del libro, Principios de circuitos de Floyd.
 ![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/1.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Recu/blob/main/2-4.PNG)
@@ -33,10 +30,8 @@ La gráfica no es una línea recta, es una pendiente la cual indica, mientras m�
 
 
 
-4. Video
+3. Conclusiones
 
 
-5. Conclusiones 
 
-
-6. Bibliografía
+4. Bibliografía
