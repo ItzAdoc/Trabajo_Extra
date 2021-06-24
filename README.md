@@ -28,6 +28,7 @@ __Objetivos Específicos__
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/7b.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/8.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/9.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/Ima9.png)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/10.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/11.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/12.PNG)
