@@ -3,16 +3,13 @@
 
  __Objetivos Generales__
 
-* 
-* 
+* Objetivo 1
+* Objetivo n
 
 __Objetivos Específicos__
 
-![](https://github.com/ItzAdoc/hdajhsi/blob/main/27.PNG)
-
-![](https://github.com/ItzAdoc/hdajhsi/blob/main/28.PNG)
-* 
-*
+* Objetivo espe 1
+* Objetivo espe 2
 
 
 2.Resolución de los ejercicios
