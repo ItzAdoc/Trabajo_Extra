@@ -220,7 +220,7 @@ __31.	En el circuito de la figura 3-23(a) el filamento de una lámpara tiene cie
 __32.	Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.__
 
 * Conectaría el amperímetro en el circuito, con el valor resultante se aplicaría ley de ohm y con ello obtendríamos el valor de la resistencia
-* 
+
 ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/32.png)
 <br></br>
 
