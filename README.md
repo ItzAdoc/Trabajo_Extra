@@ -3,13 +3,13 @@
 
  __Objetivos Generales__
 
-* Objetivo 1
-* Objetivo n
+* Entender la ley de ohm, magnitudes que la conforman corriente y la aproximación básica para localizar fallas, mediante ejercicios propuestos en el libro de Floyd para resolver cualquier tipo de ejercicio relacionado con estos temas.
 
 __Objetivos Específicos__
 
-* Objetivo espe 1
-* Objetivo espe 2
+* Entender la ley de Ohm.
+* Calcular la corriente, voltaje y resistencia en un circuito.
+* Describir una aproximación básica a la localización de fallas.
 
 
 2.Resolución de los ejercicios
@@ -66,17 +66,12 @@ __Objetivos Específicos__
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/37b.PNG)
 
 
-
-
-
-
-
-
-
-
 3. Conclusiones
 
-* ASA
-* ASA
+* La ley de Ohm es una fórmula que relaciona las 3 principales magnitudes dentro de un circuito: Voltaje representado con V, Intensidad de Corriente representado con A y Resistencia representado con Ω. Donde la corriente es proporcional a la corriente e inversamente proporcional a la resistencia.
+* Se usa la ley de Ohm dentro de los circuitos eléctricos con la cual es posible calcular voltaje, intensidad de corriente y resistencia. Conociendo al menos 2 de ellas se puede ir despejando de la formula general y obteniendo lo que buscamos.
+* La aproximación básica a la localización de falla es eficiente cuando se trata de circuitos de focos pequeños, pero mientras más focos se aumentan mayor será el tiempo y número de mediciones necesarias para encontrar el foco fundido. 
 
 4. Bibliografía
+* Referencias
+Floyd, T., 2007. *Principios de circuitos eléctricos (8a. ed.)*. Naucalpan de Juárez: Pearson Educación.
