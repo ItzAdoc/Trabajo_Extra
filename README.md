@@ -41,6 +41,33 @@ f.	El voltaje y la resistencia se duplican.
 
 Cuando el voltaje y la resistencia se duplican, la intensidad de corriente será la original.
 
+2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
+
+3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
+
+
+4.	Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+
+5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+
+La gráfica es una línea recta, más concretamente una pendiente la cual indica, mientras se aumente el voltaje la corriente aumentara.
+
+6. En cierto circuito, I =5mA cuando V =1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+
+7.	La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
+
+8.	Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+
+9.	Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
+
+10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+13.	Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/2-4.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5a.PNG)
