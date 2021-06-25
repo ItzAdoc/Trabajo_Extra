@@ -23,7 +23,6 @@ a. El voltaje se triplica
 Cuando el voltaje se triplica la intensidad de corriente también se triplica.
 
 b.	El voltaje se reduce un 75%
-
 Cuando el voltaje se reduce un 75% la intensidad de corriente también se reduce un 75%
 
 c.	La resistencia se duplica 
