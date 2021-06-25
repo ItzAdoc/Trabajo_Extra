@@ -73,5 +73,5 @@ __Objetivos Específicos__
 * La aproximación básica a la localización de falla es eficiente cuando se trata de circuitos de focos pequeños, pero mientras más focos se aumentan mayor será el tiempo y número de mediciones necesarias para encontrar el foco fundido. 
 
 4. Bibliografía
-* Referencias
-Floyd, T., 2007. *Principios de circuitos eléctricos (8a. ed.)*. Naucalpan de Juárez: Pearson Educación.
+
+* Floyd, Thomas L. (2007). *Principios de circuitos eléctricos. Octava edición*. México: PEARSON EDUCACIÓN.
