@@ -25,7 +25,6 @@ __Objetivos Específicos__
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/7a.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/7b.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/8.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/Ima8.png)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/IMA8.png)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/9.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/Ima9.png)
@@ -46,10 +45,13 @@ __Objetivos Específicos__
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/17.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/18.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/19-21.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/22.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/23.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/24.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/25.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/26.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/27.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/27a.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/28.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/29.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/30.PNG)
@@ -58,6 +60,10 @@ __Objetivos Específicos__
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/33.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/34.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/35.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/36.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/37.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/37a.PNG)
+![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/37b.PNG)
 
 
 
