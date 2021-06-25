@@ -14,7 +14,27 @@ __Objetivos Específicos__
 
 2.Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 3  del libro, Principios de circuitos de Floyd.
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/1.PNG)
+
+__1.	En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente:__
+
+a.	El voltaje se triplica
+Cuando el voltaje se triplica la intensidad de corriente también se triplica.
+
+b.	El voltaje se reduce un 75%
+Cuando el voltaje se reduce un 75% la intensidad de corriente también se reduce un 75%
+
+c.	La resistencia se duplica 
+Cuando la resistencia se duplica la intensidad de corriente se reduce a la mitad
+
+d.	La resistencia de reduce en un 35%
+Cuando la resistencia se reduce un 35% la intensidad de corriente aumenta un 35% 
+
+e.	El voltaje se duplica y la resistencia se reduce a la mitad
+Cuando el voltaje se duplica y la intensidad de resistencia se reduce a la mitad, la corriente será igual a 4 veces su valor original.
+
+f.	El voltaje y la resistencia se duplican.
+Cuando el voltaje y la resistencia se duplican, la intensidad de corriente será la original.
+
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/2-4.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5a.PNG)
