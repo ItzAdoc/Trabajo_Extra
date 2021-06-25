@@ -8,8 +8,9 @@
 
 __Objetivos Específicos__
 
-* 
-* 
+![](https://github.com/ItzAdoc/hdajhsi/blob/main/27.PNG)
+
+![](https://github.com/ItzAdoc/hdajhsi/blob/main/28.PNG)
 * 
 *
 
@@ -72,6 +73,7 @@ __Objetivos Específicos__
 
 3. Conclusiones
 
-
+* ASA
+* ASA
 
 4. Bibliografía
