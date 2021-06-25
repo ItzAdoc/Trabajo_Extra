@@ -1,23 +1,24 @@
 # Trabajo Extra
-1. Objetivos
+__I. Objetivos__
 
- __Objetivos Generales__
+ *Objetivos Generales*
 
 * Entender la ley de ohm, magnitudes que la conforman corriente y la aproximación básica para localizar fallas, mediante ejercicios propuestos en el libro de Floyd para resolver cualquier tipo de ejercicio relacionado con estos temas.
 
-__Objetivos Específicos__
+*Objetivos Específicos*
 
 * Entender la ley de Ohm.
 * Calcular la corriente, voltaje y resistencia en un circuito.
 * Describir una aproximación básica a la localización de fallas.
 
 
-2.Resolución de los ejercicios
-* Resolver los ejercicios del capítulo 3  del libro, Principios de circuitos de Floyd.
+__II.Resolución de los ejercicios__
 
-__1.	En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente:__
+*Resolver los ejercicios del capítulo 3  del libro, Principios de circuitos de Floyd.*
 
-a.	El voltaje se triplica
+ __1.	En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente:__
+
+a. El voltaje se triplica
 
 Cuando el voltaje se triplica la intensidad de corriente también se triplica.
 
@@ -41,32 +42,32 @@ f.	El voltaje y la resistencia se duplican.
 
 Cuando el voltaje y la resistencia se duplican, la intensidad de corriente será la original.
 
-2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
+__2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.__
 
-3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
+__3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.__
 
 
-4.	Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+__4.	Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.__
 
-5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+__5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?__
 
 La gráfica es una línea recta, más concretamente una pendiente la cual indica, mientras se aumente el voltaje la corriente aumentara.
 
-6. En cierto circuito, I =5mA cuando V =1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+__6. En cierto circuito, I= 5mA cuando V= 1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.__
 
-7.	La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
+__7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.__
 
-8.	Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+__8.	Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.__
 
-9.	Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
+__9.	Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.__
 
-10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+__10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?__
 
-11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+__11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?__
 
-12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+__12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?__
 
-13.	Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+__13.	Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:__
 
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/2-4.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5.PNG)
