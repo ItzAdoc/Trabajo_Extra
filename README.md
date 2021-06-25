@@ -82,70 +82,37 @@ __13.	Trace una gráfica de corriente contra voltaje con valores de voltaje que 
 __14.	¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.__
 
 Si indica una relación lineal ya que por definición sabemos que el voltaje es proporcional a la corriente, por lo tanto, mientras aumenta el voltaje la corriente también lo hará, si se mantiene constante la resistencia.
+<br></br>
 
 __15.	Determine la corriente en cada caso:__
+<br></br>
 
 __16.	Determine la corriente en cada caso:__
+<br></br>
 
 
 __17.	Se conecta un resistor de 10Ω a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?__
-
+<br></br>
 
 __18.	Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.__
-
+<br></br>
 
 __19.	Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.__
+<br></br>
 
+__20.	Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta__
+<br></br>
 
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/2-4.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5a.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5b.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5c.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/6.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/7.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/7a.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/7b.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/8.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/IMA8.png)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/9.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/Ima9.png)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/10.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/11.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/12.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/13.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/Ima13a.png)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/13a.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/Ima13b.png)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/13b.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/Ima13ca.png)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/13c.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/Ima13d.png)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/14.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/15.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/16.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/17.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/18.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/19-21.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/22.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/23.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/24.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/25.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/26.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/27.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/27aa.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/28.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/29.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/30.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/31.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/32.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/33.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/34.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/35.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/36.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/37.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/37a.PNG)
-![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/37b.PNG)
+__21.	El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?__
+<br></br>
+
+__22.	Calcule el voltaje para cada valor de I y R:__
+
+__23.	Calcule el voltaje para cada valor de I y R:__
+
+__24.	Se leen tres amperes de corriente a través de un resistor de 27 conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?__
+
+__25.	Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.__
 
 
 3. Conclusiones
