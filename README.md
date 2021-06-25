@@ -148,7 +148,7 @@ __25.	Se leen tres amperes de corriente a través de un resistor de 27 conectado
 __26.	Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.__
 <br></br>
 
-__27. Se conecta una fuente de 6V a un resistor de 100Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100Ω. __
+__27. Se conecta una fuente de 6V a un resistor de 100Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100Ω.__
 <br></br>
 
 __28.	Encuentre la resistencia de un reóstato para cada valor de V e I:__
