@@ -42,18 +42,31 @@ Cuando el voltaje y la resistencia se duplican, la intensidad de corriente será
 <br></br>
 
 __2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.__
+
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/2.PNG)
 <br></br>
 
 __3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.__
+
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/3.PNG)
 <br></br>
 
 __4.	Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.__
+
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/4.PNG)
 <br></br>
 
 __5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?__
-<br></br>
+
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/5.PNG)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/5a.PNG)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/5b.PNG)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/5c.PNG)
 
 La gráfica es una línea recta, más concretamente una pendiente la cual indica, mientras se aumente el voltaje la corriente aumentara.
+<br></br>
+
+
 
 __6. En cierto circuito, I= 5mA cuando V= 1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.__
 <br></br>
@@ -68,6 +81,8 @@ __9.	Trace la relación corriente-voltaje para un resistor de cinco bandas con c
 <br></br>
 
 __10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?__
+
+* El que tiene menos corriente es el circuito a 
 <br></br>
 
 __11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?__
