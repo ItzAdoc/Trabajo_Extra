@@ -131,9 +131,13 @@ __20.	Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determ
 <br></br>
 
 __21.	Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta__
+
+El fusible se funde, ya que solo resiste hasta 0.5A, y con el voltaje y resistencia dado nos resulta una intensidad de corriente de 0.642A. 
 <br></br>
 
 __22.	El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?__
+
+	Es la intensidad de corriente máxima en el circuito, puesto a que si se baja más la resistencia del reóstato el elemento calentador se quemaría. Por lo tanto, el valor nominal del fusible es 2.5A
 <br></br>
 
 __23.	Calcule el voltaje para cada valor de I y R:__
@@ -149,6 +153,7 @@ __26.	Asigne un valor de voltaje a cada una de las fuentes que aparecen en los c
 <br></br>
 
 __27. Se conecta una fuente de 6V a un resistor de 100Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100Ω.__
+* Como ambos cables tienen las mismas especificaciones, tiene la misma resistencia, eso significa que en cada tramo de cable existe una caída de 4.613mV
 <br></br>
 
 __28.	Encuentre la resistencia de un reóstato para cada valor de V e I:__
@@ -164,15 +169,23 @@ __31.	En el circuito de la figura 3-23(a) el filamento de una lámpara tiene cie
 <br></br>
 
 __32.	Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.__
+
+* Conectaría el amperímetro en el circuito, con el valor resultante se aplicaría ley de ohm y con ello obtendríamos el valor de la resistencia
 <br></br>
 
 __33.	Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuáles el problema con el circuito?__
+
+* El problema del circuito es que si el reóstato llega a tener un valor de 0Ω, ocurre un cortocircuito.
 <br></br>
 
 __34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω.__
+
+* La Resistencia minima del reóstato sería 45 Ω, con ello el circuito no tendrá más de 2A de corriente circulando y por ende el fusible no se fundiría.
 <br></br>
 
 __35.	Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.__
+
+* La Resistencia minima del reóstato sería 95 Ω, con ello el circuito no tendrá más de 2A de corriente circulando y por ende el fusible no se fundiría.
 <br></br>
 
 __36.	En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de óhmetro mostradas__
