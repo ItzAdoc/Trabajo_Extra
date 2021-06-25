@@ -98,12 +98,22 @@ __10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente?
 <br></br>
 
 __11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?__
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/11.PNG)
 <br></br>
 
 __12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?__
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/12.PNG)
 <br></br>
 
 __13.	Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:__
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/13.PNG)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/Ima13a.png)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/13a.PNG)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/Ima13b.png)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/13b.PNG)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/Ima13c.png)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/13c.PNG)
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/Ima13d.png)
 <br></br>
 
 __14.	¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.__
@@ -211,8 +221,11 @@ __37.	Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con
  4. Se vuelve a tomar 2 mitades, se descarta 8 porque me entrega un valor de resistencia y 7 marca un valor de resistencia infinito, por lo que ahora nos centraremos en 7.
 
  ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/37c.png)
+ 
  5. Se vuelve a tomar 2 mitades, se descarta 10 porque me entrega un valor de resistencia y 9 marca un valor de resistencia infinito, por lo que el foco fundido es 9.
+ 
  ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/37d.png)
+ 
  * Esto nos da como resultado que tuvimos que hacer 10 medidas de resistencia para encontrar el foco fundido.
 <br></br>
 
