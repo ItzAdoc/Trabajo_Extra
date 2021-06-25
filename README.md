@@ -197,10 +197,22 @@ El foco que este fundido siguiendo el orden dado es el cuarto empezando por la i
 __37.	Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?__
 
  1. Se mide las dos mitades, la 1 nos dará un valor de resistencia, mientras que 2 nos dará un valor de resistencia infinito, se descarta 1 se sigue midiendo 2.
- 2. Se vuelve a tomar 2 mitades, se descarta 4 porque me entrega un valor de resistencia y 3 marca un valor de resistencia infinito, por lo que ahora nos centraremos en 3.
+
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/37.png)
+
+2. Se vuelve a tomar 2 mitades, se descarta 4 porque me entrega un valor de resistencia y 3 marca un valor de resistencia infinito, por lo que ahora nos centraremos en 3.
+
+![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/37a.png)
+ 
  3. Se vuelve a tomar 2 mitades, se descarta 6 porque me entrega un valor de resistencia y 5 marca un valor de resistencia infinito, por lo que ahora nos centraremos en 5.
+ 
+ ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/37b.png)
+
  4. Se vuelve a tomar 2 mitades, se descarta 8 porque me entrega un valor de resistencia y 7 marca un valor de resistencia infinito, por lo que ahora nos centraremos en 7.
+
+ ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/37c.png)
  5. Se vuelve a tomar 2 mitades, se descarta 10 porque me entrega un valor de resistencia y 9 marca un valor de resistencia infinito, por lo que el foco fundido es 9.
+ ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/37d.png)
  * Esto nos da como resultado que tuvimos que hacer 10 medidas de resistencia para encontrar el foco fundido.
 <br></br>
 
