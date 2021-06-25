@@ -10,63 +10,92 @@ __I. Objetivos__
 * Entender la ley de Ohm.
 * Calcular la corriente, voltaje y resistencia en un circuito.
 * Describir una aproximación básica a la localización de fallas.
-
-
+<br></br>
 __II.Resolución de los ejercicios__
 
 *Resolver los ejercicios del capítulo 3  del libro, Principios de circuitos de Floyd.*
-
+<br></br>
  __1.	En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente:__
 
-a. El voltaje se triplica
+*a. El voltaje se triplica*
 
 Cuando el voltaje se triplica la intensidad de corriente también se triplica.
 
-b.	El voltaje se reduce un 75%
+*b.	El voltaje se reduce un 75%*
 Cuando el voltaje se reduce un 75% la intensidad de corriente también se reduce un 75%
 
-c.	La resistencia se duplica 
+*c.	La resistencia se duplica*
 
 Cuando la resistencia se duplica la intensidad de corriente se reduce a la mitad
 
-d.	La resistencia de reduce en un 35%
+*d.	La resistencia de reduce en un 35%*
 
 Cuando la resistencia se reduce un 35% la intensidad de corriente aumenta un 35% 
 
-e.	El voltaje se duplica y la resistencia se reduce a la mitad
+*e.	El voltaje se duplica y la resistencia se reduce a la mitad*
 
 Cuando el voltaje se duplica y la intensidad de resistencia se reduce a la mitad, la corriente será igual a 4 veces su valor original.
 
-f.	El voltaje y la resistencia se duplican.
+*f.	El voltaje y la resistencia se duplican.*
 
 Cuando el voltaje y la resistencia se duplican, la intensidad de corriente será la original.
+<br></br>
 
 __2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.__
+<br></br>
 
 __3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.__
-
+<br></br>
 
 __4.	Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.__
+<br></br>
 
 __5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?__
+<br></br>
 
 La gráfica es una línea recta, más concretamente una pendiente la cual indica, mientras se aumente el voltaje la corriente aumentara.
 
 __6. En cierto circuito, I= 5mA cuando V= 1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.__
+<br></br>
 
 __7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.__
+<br></br>
 
 __8.	Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.__
+<br></br>
 
 __9.	Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.__
+<br></br>
 
 __10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?__
+<br></br>
 
 __11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?__
+<br></br>
 
 __12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?__
+<br></br>
 
 __13.	Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:__
+<br></br>
+
+__14.	¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.__
+
+Si indica una relación lineal ya que por definición sabemos que el voltaje es proporcional a la corriente, por lo tanto, mientras aumenta el voltaje la corriente también lo hará, si se mantiene constante la resistencia.
+
+__15.	Determine la corriente en cada caso:__
+
+__16.	Determine la corriente en cada caso:__
+
+
+__17.	Se conecta un resistor de 10Ω a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?__
+
+
+__18.	Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.__
+
+
+__19.	Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.__
+
 
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/2-4.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_Extra/blob/main/5.PNG)
