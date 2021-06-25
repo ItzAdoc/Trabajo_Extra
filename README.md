@@ -189,9 +189,19 @@ __35.	Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.__
 <br></br>
 
 __36.	En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de óhmetro mostradas__
+
+El foco que este fundido siguiendo el orden dado es el cuarto empezando por la izquierda, lo que se hace es ocupar el método de división, el cual consiste en ir midiendo la resistencia en mitades, es decir si hay 8 focos se mide la resistencia en 4, luego se mide en la mitad, en este caso seria 2 y por ultimo se mide en la mitad de 2.
+
 <br></br>
 
 __37.	Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?__
+
+ 1. Se mide las dos mitades, la 1 nos dará un valor de resistencia, mientras que 2 nos dará un valor de resistencia infinito, se descarta 1 se sigue midiendo 2.
+ 2. Se vuelve a tomar 2 mitades, se descarta 4 porque me entrega un valor de resistencia y 3 marca un valor de resistencia infinito, por lo que ahora nos centraremos en 3.
+ 3. Se vuelve a tomar 2 mitades, se descarta 6 porque me entrega un valor de resistencia y 5 marca un valor de resistencia infinito, por lo que ahora nos centraremos en 5.
+ 4. Se vuelve a tomar 2 mitades, se descarta 8 porque me entrega un valor de resistencia y 7 marca un valor de resistencia infinito, por lo que ahora nos centraremos en 7.
+ 5. Se vuelve a tomar 2 mitades, se descarta 10 porque me entrega un valor de resistencia y 9 marca un valor de resistencia infinito, por lo que el foco fundido es 9.
+ * Esto nos da como resultado que tuvimos que hacer 10 medidas de resistencia para encontrar el foco fundido.
 <br></br>
 
 3. Conclusiones
