@@ -160,7 +160,7 @@ __21.	Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 
 
 ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/21.PNG)
 
-El fusible se funde, ya que solo resiste hasta 0.5A, y con el voltaje y resistencia dado nos resulta una intensidad de corriente de 0.642A. 
+* El fusible se funde, ya que solo resiste hasta 0.5A, y con el voltaje y resistencia dado nos resulta una intensidad de corriente de 0.642A. 
 <br></br>
 
 __22.	El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?__
@@ -250,7 +250,7 @@ __36.	En el circuito de luces de la figura 3-25, identifique el foco fundido con
 
 ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/36.png)
 
-El foco que este fundido siguiendo el orden dado es el cuarto empezando por la izquierda, lo que se hace es ocupar el método de división, el cual consiste en ir midiendo la resistencia en mitades, es decir si hay 8 focos se mide la resistencia en 4, luego se mide en la mitad, en este caso seria 2 y por ultimo se mide en la mitad de 2.
+* El foco que este fundido siguiendo el orden dado es el cuarto empezando por la izquierda, lo que se hace es ocupar el método de división, el cual consiste en ir midiendo la resistencia en mitades, es decir si hay 8 focos se mide la resistencia en 4, luego se mide en la mitad, en este caso seria 2 y por ultimo se mide en la mitad de 2.
 <br></br>
 
 __37.	Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?__
