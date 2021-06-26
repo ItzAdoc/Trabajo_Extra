@@ -23,6 +23,7 @@ __*a. El voltaje se triplica*__
 Cuando el voltaje se triplica la intensidad de corriente también se triplica.
 
 __*b.	El voltaje se reduce un 75%*__
+
 Cuando el voltaje se reduce un 75% la intensidad de corriente también se reduce un 75%
 
 __*c.	La resistencia se duplica*__
