@@ -66,7 +66,7 @@ __5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Co
 ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/5b.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_ex/blob/main/5c.PNG)
 
-La gráfica es una línea recta, más concretamente una pendiente la cual indica, mientras se aumente el voltaje la corriente aumentara.
+* La gráfica es una línea recta, más concretamente una pendiente la cual indica, mientras se aumente el voltaje la corriente aumentara.
 <br></br>
 
 __6. En cierto circuito, I= 5mA cuando V= 1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.__
@@ -123,7 +123,7 @@ __13.	Trace una gráfica de corriente contra voltaje con valores de voltaje que 
 
 __14.	¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.__
 
-Si indica una relación lineal ya que por definición sabemos que el voltaje es proporcional a la corriente, por lo tanto, mientras aumenta el voltaje la corriente también lo hará, si se mantiene constante la resistencia.
+* Si indica una relación lineal ya que por definición sabemos que el voltaje es proporcional a la corriente, por lo tanto, mientras aumenta el voltaje la corriente también lo hará, si se mantiene constante la resistencia.
 <br></br>
 
 __15.	Determine la corriente en cada caso:__
